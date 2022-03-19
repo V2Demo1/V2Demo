@@ -1,0 +1,10 @@
+{
+  "name": "V2Demo",
+  "env": {
+    "WS_URI": {
+      "description": "WebSocket URI",
+      "value": "/"
+    }
+  },
+  "stack": "container"
+}
